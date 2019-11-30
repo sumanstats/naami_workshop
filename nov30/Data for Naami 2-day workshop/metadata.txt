@@ -1,0 +1,13 @@
+Mass (10^24 kg)
+Diameter (km)
+Length of Day (hours)
+Distance from Sun (10^6 km)
+Orbital Period (days)
+Orbital Velocity (km/s)
+Mean Temperature (C)
+Surface Pressure (bars)
+Number of Moons
+Ring System?
+Global Magnetic Field?
+Day of first visit
+First successful mission
