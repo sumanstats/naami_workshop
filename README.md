@@ -4,7 +4,7 @@ This repo contains materials for 2-days workshop on Machine learning.
 
 ### Launching notebook
 
-- Click the binder logo
+- Click the binder icon
 - Go to whichever day you want
 - Then inside the notebooks
 - Click the notebook you want to run
@@ -14,4 +14,4 @@ This repo contains materials for 2-days workshop on Machine learning.
 
 ### Launching JupyterLab
 
-You can launch JupyterLab by opening the Jupyter Notebook as usual and replace  `/tree` with `/lab` at the end of url.
+You can launch JupyterLab by launching the binder as usual by clicking the binder icon and replace  `/tree` with `/lab` at the end of url.
